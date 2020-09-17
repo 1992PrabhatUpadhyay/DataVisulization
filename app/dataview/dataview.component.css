@@ -1,0 +1,111 @@
+/* #navwidth{
+ height: 10px;
+} */
+
+
+
+/* .wrapper {
+    display: flex;
+    width: 100%;
+} */
+
+ .sidebar {
+    width: 200px;
+    /* height: 800px; */
+    position: fixed; 
+    background-color: rgb(219, 247, 255);
+    /* top: 0; */
+    /* left: 0;*/
+    height: 100vh; 
+    /* z-index: 999; */
+    /* background: #e9edfc;
+    color: rgb(235, 64, 64); */
+    /* transition: all 0.3s; */
+ } 
+ /* a:hover{  */
+    /* text-align: center;
+    hove */
+    /* background-color: rgb(155, 195, 255); */
+/* }  */
+
+
+
+/* .card1{
+    width: 250px;
+    height: 70px;
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);  */
+    
+    /* text-align: center;
+    margin-top: 10px;
+    padding-top: 20px; */
+    /* border-style: solid; */
+  /* border-width: thin; */
+   /* border-radius:5px;
+ 
+} */
+
+.card1{
+    width: 250px;
+    height: 70px; 
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+}
+
+.card2{
+    width: 250px;
+    height: 70px; 
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+}
+
+.card3{width: 250px;
+    height: 70px;
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+ }
+
+ i{
+     color: rgb(23, 129, 250);
+ }
+
+
+ .seondrow{
+     margin-left: 862px;
+ }
+
+ .Thirdrow{
+    margin-left: 500px;
+
+ }
+ .Fourthrow{
+    margin-left: 220px;
+    width: 935px;
+
+ }
+
+ img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+a{
+    color: white;
+}
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+a{
+    color: rgb(17, 17, 17);
+}
+.bar{
+    background-color: rgb(214, 214, 214);
+}
+.icon{
+    color:white;
+}
+
+.symbolbar{
+    height: 900px;
+}
+.symbolicon{
+    color: black;
+}

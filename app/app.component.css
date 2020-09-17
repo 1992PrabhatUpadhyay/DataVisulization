@@ -1,0 +1,13 @@
+nav{
+    
+    background-color: rgb(240, 240, 240);
+}
+
+container-fluid{
+    border: 5px;
+    border-color: rgb(145, 143, 143);
+
+}
+.span{
+    font-weight: bold;
+}
